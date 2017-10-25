@@ -1,0 +1,21 @@
+{
+  "name": "elementum-challenge",
+  "version": "1.0.1",
+  "description": "Elementum's Technical Challenge",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elementumscm/elementum-challenge.git"
+  },
+  "author": "Elementum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elementumscm/elementum-challenge/issues"
+  },
+  "homepage": "https://github.com/elementumscm/elementum-challenge#readme",
+  "dependencies": {
+    "request": "2.83.0"
+  }
+}
